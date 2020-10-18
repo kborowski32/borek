@@ -1,1 +1,3 @@
 pierwszy wiersz
+nowaFunkcja
+
